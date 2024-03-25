@@ -1,0 +1,20 @@
+[
+  {
+    "customerName": "Megha gurung",
+    "customerContact": 9825106629,
+    "totalBalance": 300,
+    "purchaseDate": "2024-02-14T08:39:49.134Z"
+  },
+  {
+    "customerName": "Milan gurung",
+    "customerContact": 9866867256,
+    "totalBalance": 460,
+    "purchaseDate": "2024-02-15T09:29:29.117Z"
+  },
+  {
+    "customerName": "Bishnu sharma",
+    "customerContact": 9846511962,
+    "totalBalance": 780,
+    "purchaseDate": "2024-02-15T10:55:12.106Z"
+  }
+]
