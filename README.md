@@ -70,4 +70,39 @@ Do you want to buy book(Y/N)?
 If we enter 'Y',
 then we will enter the book id and its quantity .
 
-The system will check the book availability and if the book qty is available the system will ask for customer detail and provide the total of the customer 
+The system will check the book availability and if the book qty is available the system will ask for customer detail
+
+Then store the detail and total of the customer 
+```
+Do you want to buy book(Y/N)?
+Y
+Enter the book ID of the book you want to buy:
+1
+Enter the quantity of the book you want to buy:
+3
+Enter the customer name:
+Megha
+Enter the customer contact:
+9845678690
+```
+After, you have entered the details correctly like in the above example, we will have statement telling
+>The customer is added
+---
+If you enter the choice as 3,
+
+Then the system will present you the customer history of the bookstore 
+```
+Loading sales history
+
+Customer Number :1
+Customer Name: Simran
+Customer Contact: 9825106629
+Total Balance: 300
+Purchase Date: 2024-02-14T08:39:49.134Z
+
+Customer Number :2
+Customer Name: megha
+Customer Contact: 9845678690
+Total Balance: 1050
+Purchase Date: 2024-03-26T13:40:16.324Z
+```
