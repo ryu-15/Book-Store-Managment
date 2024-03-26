@@ -1,1 +1,4 @@
-[{"bookName":"DSA book","bookPrice":350,"bookCategory":"maths","bookQty":23},{"bookName":" VB.net book","bookPrice":480,"bookCategory":"programming","bookQty":65},{"bookName":"MFCS book","bookPrice":450,"bookCategory":"maths","bookQty":6},{"bookName":"C++ Book","bookQty":29,"bookPrice":415,"bookCategory":"Programming"},{"bookName":"C++ Book","bookQty":29,"bookPrice":415,"bookCategory":"Programming"},{"bookName":"C++ Book","bookQty":29,"bookPrice":415,"bookCategory":"Programming"}]
+[{"bookName":"DSA book","bookPrice":350,"bookCategory":"maths","bookQty":23},
+  {"bookName":" VB.net book","bookPrice":480,"bookCategory":"programming","bookQty":65},
+  {"bookName":"MFCS book","bookPrice":450,"bookCategory":"maths","bookQty":6}
+,{"bookName":"C++ Book","bookQty":29,"bookPrice":415,"bookCategory":"Programming"}]

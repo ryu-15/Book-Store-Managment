@@ -88,7 +88,8 @@ Enter the customer contact:
 After, you have entered the details correctly like in the above example, we will have statement telling
 >The customer is added
 ---
-If you enter the choice as 3,
+
+- If you enter the choice as 3,
 
 Then the system will present you the customer history of the bookstore 
 ```
