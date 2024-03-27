@@ -24,7 +24,7 @@ There you will get 4 option:
    ```
 ---
 
-- If you enter the choice as 1,
+- `If you enter the choice as 1,`
 
     Then you wil be asked the details about the book you want to add
 
@@ -39,7 +39,7 @@ There you will get 4 option:
     >The book is added
 
 ---
-- If you enter the choice as 2,
+- `If you enter the choice as 2,`
 
     Then you will be provided with a list of book along with it details available in the book store 
  
@@ -89,7 +89,7 @@ There you will get 4 option:
   >The customer is added
 ---
 
-- If you enter the choice as 3,
+- `If you enter the choice as 3,`
 
   Then the system will present you the customer history of the bookstore 
   ```
